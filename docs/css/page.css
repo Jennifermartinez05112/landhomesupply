@@ -10,10 +10,3 @@
 h1, h4, p {
     font-family: 'Inconsolata', monospace;
 }
-/* Links */
-a,
-a:link {text-decoration: none;},
-a:focus,
-a:hover {
-  text-decoration: underline;
-}
