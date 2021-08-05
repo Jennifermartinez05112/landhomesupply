@@ -10,3 +10,9 @@
 h1, h4, p {
     font-family: 'Inconsolata', monospace;
 }
+/* Links */
+a,
+a:focus,
+a:hover {
+  color: #000000;
+}
